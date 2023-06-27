@@ -61,6 +61,17 @@ relevant subject matters regarding department.
 B. Project Management Consultants and Region Allocation:
 Following Project Management Consultants were empanelled and assigned regions based on the
 bid management process.
+-----------------------------------------------------------
+|  |  |  |
+|  | Sr. |  |  | Circle |  |  | Empanelled Project Management Consultant |  |
+|  |  |  |
+| 1 | Thane | TPF Engineering Pvt. Ltd |
+| 2 | Amravati | K&J Projects Pvt. Ltd |
+| 3 | Pune | Shrikhande Consultants Pvt. Ltd |
+| 4 | Aurangabad | Samarth Infratech Service Pvt. Ltd |
+| 5 | Nashik | TPF Engineering Pvt. Ltd |
+| 6 | Nagpur | K&J Projects Pvt. Ltd |
+-----------------------------------------------------------
 C. Duration of Contract
 The period of the empanelment would be three (3) years w.e.f. 06 January 2022 to 06 January
 2025. The ambit of the appointed empanelled Project Management Consultants is within the terms
@@ -71,6 +82,15 @@ Page 3 of 12
 Government Resolution No.: MIS-2021/C.R. No. 166/Jal-1
 D. Contact Details of the PMC
 The contact details of the PMC are given below.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  | PMC |  |  |  |
+|  | Sr |  |  | Name of SPOC |  |  | Office Address |  |
+| Name |
+| 1 | TPF Engineeri ng Pvt Ltd | Mr. Pradip Shinkar Mr. Amarnath Chatterjee Vice President (Business Development) | Corporate Office: 1401, Rupa Sapphire, Plot no.12, Sector-18, Opposite Sanpada Railway Station, On Sion Panvel Highway, Vashi, Navi Mumbai-40070 Registered Office Adress-1002, Krishna Heights, Plot No.31A, Sector-36, Kamothe, Navi Mumbai-410206, Maharashtra, INDIA Phone: 022-41273306 Email:pune@tpfepl.com |
+| 2 | M/s. K & J Projects Private Limited | MR. Sanjay Bonkile Mr. Shrikant Khobragade Sr. Manager (Business Development) | Registered Office Shivam, 16 NIT Layout, Ravinagar, Nagpur - 440033 Phone: 0712-2556402 Email:bd@knjprojects.com |
+| 3 | Shrikhand e Consultan ts Private Limited | Mr. Hitesh N. Sardesai Vice President (Planning & Development) | Registered Office M/s. Shrikhande Consultants Pvt. Ltd., 004,Sakharam Krupa, 59, Gokhale Road (North), Dadar (West), Mumbai - 400028 Phone: 022-27891444 Email:businessdevelopment@scplasia.com |
+| 4 | Samarth Infra-Tech Services Pvt. Ltd | Mr. Hrishikesh Kaluskar Mr. Sanjay Gade | Registered Office M/s. Samarth Infra-Tech Services Pvt. Ltd Office no. 40 & 41, LokamanyaHouse, Lokamnya Nagar, Kothrud, Pune-411029 Phone: 020-253989189 Email:samarthinfratechpune@gmail.com sisplpune@rediffmail.com |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E. Project Management Consultancy Rate: 1. The consultancy rate has been identified vide Tender evaluation and subsequent Request
 for Quotations process and it is fixed at 2% (Excluding the cost of Royalty Charges
 and ETP cost) of the total project cost.
