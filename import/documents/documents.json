@@ -20050,5 +20050,44 @@
     "name": "mahsoil-1655.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Soil/15-Jul-2023/202307131144172226.pdf": {
+    "code": "202307131144172226",
+    "crawl_dir": "15-Jul-2023",
+    "date": "13-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-15T15:07:14.297954",
+    "size_kb": "170",
+    "text": "0 to 100. Disbursement of funds for new/in-progress project works: Dist. Solapur (Rest of Maharashtra Division)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307131144172226.pdf",
+    "name": "mahsoil-1656.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Soil/15-Jul-2023/202307131150232426.pdf": {
+    "code": "202307131150232426",
+    "crawl_dir": "15-Jul-2023",
+    "date": "13-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-15T15:07:18.536466",
+    "size_kb": "236",
+    "text": "101 to 250 ha. Disbursement of funds for obtaining water availability certificate for projects: Dist. Buldhana (Vidarbha Division)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307131150232426.pdf",
+    "name": "mahsoil-1657.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Soil/15-Jul-2023/202307141235240726.pdf": {
+    "code": "202307141235240726",
+    "crawl_dir": "15-Jul-2023",
+    "date": "14-07-2023",
+    "dept": "Soil & Water Conservation Department",
+    "download_time": "2023-07-15T15:07:10.047863",
+    "size_kb": "164",
+    "text": "Regarding the constitution of State Level Selection Committee for filling up the posts of Water Conservation Officer, Group- B (Non-Gazetted) cadre in the quota of nominations at field establishments in Soil and Water Conservation Department.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307141235240726.pdf",
+    "name": "mahsoil-1658.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
   }
 }
